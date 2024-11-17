@@ -14,4 +14,4 @@ This project is a **Crypto Price Tracker** built using Python and Streamlit. It 
 1. **Clone the Repository**:
    
    ```bash
-   git clone <your-repo-url>
+   git clone <https://github.com/rizz1406/Crypto-Price-Tracker.git>
